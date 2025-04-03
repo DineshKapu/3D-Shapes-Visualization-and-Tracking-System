@@ -1,10 +1,10 @@
 # 3D Shapes Visualization and Tracking System
 ## Project Overview
 A real-time interactive system that visualizes and tracks the positions of 3D shapes (cube and cone) with synchronized web display.
-This project provides a real-time 3D visualization system that allows users to:
--Control a cube and cone in a 3D space using keyboard inputs
--View the positions of both shapes in a web interface
--See both shapes' movements visualized in a single graph with a shared origin point
+- This project provides a real-time 3D visualization system that allows users to:
+  - Control a cube and cone in a 3D space using keyboard inputs
+  - View the positions of both shapes in a web interface
+  - See both shapes' movements visualized in a single graph with a shared origin point
 
 ## 🌟 Features
 
