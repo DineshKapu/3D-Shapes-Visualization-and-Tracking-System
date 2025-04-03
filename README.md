@@ -20,12 +20,19 @@ This project provides a real-time 3D visualization system that allows users to:
   - Responsive design
 ## Installation
 - **1.Clone the Repository:**
-   -[ git clone]() [repository-url]()
+   - [ git clone]() [repository-url]()
    - [cd [repository-name]]()
 - **2.Install dependencies:**
     - [pip install -r requirements.txt]()
 - **3.manually install:**
   - [pip install open3d flask flask-socketio eventlet python-socketio]()
+## Running The System
+  **1.Start the backend server:**
+    -  [python server/server.py]()
+  **2.Launch the 3D visualizer:**
+  -  [python client/cube_app.py]()
+  **3.Access the web interface at:**
+  -  [http://localhost:5000]()
 ## 📦 System Architecture
 
 ```mermaid
