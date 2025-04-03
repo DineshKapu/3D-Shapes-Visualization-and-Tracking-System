@@ -33,6 +33,17 @@ This project provides a real-time 3D visualization system that allows users to:
     - [python client/cube_app.py]()
   - **3.Access the web interface at:**
     - [http://localhost:5000]()
+## 🎮 Control Scheme
+
+| Command       | Cube Action (🟦) | Cone Action (🔺) |
+|---------------|------------------|------------------|
+| W / ↑         | Move Up          | Move Up          |
+| A / ←         | Move Left        | Move Left        |
+| S / ↓         | Move Down        | Move Down        |
+| D / →         | Move Right       | Move Right       |
+| Q / TAB       | Move Forward     | Move Forward     |
+| E / SHIFT     | Move Back        | Move Back        |
+
 ## 📦 System Architecture
 
 ```mermaid
