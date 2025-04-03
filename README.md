@@ -20,10 +20,10 @@ This project provides a real-time 3D visualization system that allows users to:
   - Responsive design
 ## Installation
 - **1.Clone the Repository:**
- - [ git clone]() [repository-url]()
- - [cd [repository-name]]()
+   - [ git clone]() [repository-url]()
+   - [cd [repository-name]]()
 - **2.Install dependencies:**
- - [pip install -r requirements.txt] ()
+    - [pip install -r requirements.txt] ()
 - **3.manually install:**
   - [pip install open3d flask flask-socketio eventlet python-socketio]()
 ## 📦 System Architecture
