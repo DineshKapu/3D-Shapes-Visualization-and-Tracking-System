@@ -30,7 +30,7 @@ This project provides a real-time 3D visualization system that allows users to:
   - **1.Start the backend server:**
     - [python server/server.py]()
   - **2.Launch the 3D visualizer:**
-  - [python client/cube_app.py]()
+    - [python client/cube_app.py]()
   - **3.Access the web interface at:**
     - [http://localhost:5000]()
 ## 📦 System Architecture
