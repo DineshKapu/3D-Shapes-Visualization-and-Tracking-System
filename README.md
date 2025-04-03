@@ -27,9 +27,9 @@ A real-time interactive system that visualizes and tracks the positions of 3D sh
 - **3.manually install:**
   - [pip install open3d flask flask-socketio eventlet python-socketio]()
 ## Running The System
-  - **1.Start the backend server:**
+  - **1.Start the server (in one terminal)::**
     - [python server/server.py]()
-  - **2.Launch the 3D visualizer:**
+  - **2.Start the visualizer (in another terminal):**
     - [python client/cube_app.py]()
   - **3.Access the web interface at:**
     - [http://localhost:5000]()
